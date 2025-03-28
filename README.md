@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **final-year computer science student** from
 
 💻 Passionate about ML, software engineering, and fintech
 
-🏹 State-level archer with 6 gold medals
+🏹 Enthusiastic about archery, with state-level achievements complementing my technical pursuits
 
 🚀 Building AI-driven solutions for real-world problems
 
