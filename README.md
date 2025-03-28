@@ -2,10 +2,14 @@
 
 Welcome to my GitHub profile! I'm a **final-year computer science student** from Tamil Nadu, India, passionate about solving real-world problems through **machine learning**, **software engineering**, and **financial technology**. My focus lies in creating scalable, impactful projects, with a special emphasis on **AI-driven solutions**.
 
-## 🌟 About Me
-- 🎓 Pursuing a Bachelor of Computer Science at Sri Ganesh College of Arts and Science (Graduating 2025)
-- 💻 Enthusiastic about leveraging AI to transform industries like finance and education
-- 🏹 State-level archery competitor with **6 gold medals**, showcasing discipline and precision in competitive environments
+🌟 About Me
+🎓 Final-year CS student  (2025 grad)
+
+💻 Passionate about ML, software engineering, and fintech
+
+🏹 State-level archer with 6 gold medals
+
+🚀 Building AI-driven solutions for real-world problems
 
 ## 💻 Technical Skills
 
