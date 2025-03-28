@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhagat Surya Anuradha
 
-<!--
-**Bhagat028/Bhagat028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **final-year computer science student** from Tamil Nadu, India, passionate about solving real-world problems through **machine learning**, **software engineering**, and **financial technology**. My focus lies in creating scalable, impactful projects, with a special emphasis on **AI-driven solutions**.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 Pursuing a Bachelor of Computer Science at Sri Ganesh College of Arts and Science (Graduating 2025)
+- 💻 Enthusiastic about leveraging AI to transform industries like finance and education
+- 🏹 State-level archery competitor with **6 gold medals**, showcasing discipline and precision in competitive environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+### Programming Languages
+- TypeScript | JavaScript | Python | Node.js
+
+### Technologies
+- Machine Learning: TensorFlow, NLP
+- Cloud: AWS EC2, CloudFront
+- Databases: MongoDB, PostgreSQL
+- API Development: Hono.js
+
+### Tools
+- Git | Linux CLI | Redis | ORM (Drizzle, Prisma)
+
+## 🚀 Featured Project: ChatDash - AI Financial Analyst
+
+**ChatDash** is an open-source LLM-powered agent designed to provide actionable financial insights. It leverages advanced **NLP techniques** to interpret complex queries and integrates real-time data processing across both SQL and NoSQL databases.
+
+### Key Features:
+- **Natural Language Querying**: Converts financial questions into actionable insights.
+- **Real-Time Data Processing**: Seamlessly handles data from multiple sources.
+- **Scalable Architecture**: Built for efficiency and performance.
+
+## 📂 Other Projects
+
+### Interviw.com - AI Interview Platform
+A scalable platform for realistic interview simulations powered by AI.
+- Developed REST APIs supporting 200+ concurrent sessions.
+- Integrated Crew AI for scenario-based training.
+
+### ContentCraft - Secure Publishing Platform
+A full-stack secure publishing app with a focus on security protocols and transactional integrity.
+- Backend: Hono.js/Prisma
+- Frontend: React/Tailwind CSS
+
+## 📫 Let's Connect!
+📧 Email: surya.inatom@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/bhagatsurya/?originalSubdomain=in) | [x](https://x.com/bhagatsurya2?lang=en)
+
+Thank you for visiting my profile! Feel free to explore my repositories or reach out if you'd like to collaborate. 🚀
